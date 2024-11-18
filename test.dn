@@ -1,0 +1,7 @@
+[op] [args]
+tile <tileName> <x> <y>
+cable <tilenum> <socketNum> <tilenum> <socketNum>
+
+customtile <tileName> <inputs> <outpust>
+
+end
