@@ -1,4 +1,4 @@
-module dnode
+module github.com/DoraKokce/DNode
 
 go 1.22.2
 
